@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Alexresh?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=public+repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlexresh&color=brightgreen&logo=github" alt="Repositories" />
+  </a>
+</p>
+
+<p align="center">
    <img src="https://img.shields.io/badge/focus-minecraft_mods-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white" />
    <img src="https://img.shields.io/github/stars/Alexresh?affiliations=OWNER&style=for-the-badge" />
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
